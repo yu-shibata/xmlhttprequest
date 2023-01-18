@@ -1,0 +1,14 @@
+{
+  "name": "hello-xhr",
+  "version": "1.0.0",
+  "description": "XHR 学習用サンプルコード",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "dynamis",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
